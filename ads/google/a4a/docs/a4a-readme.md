@@ -1,10 +1,10 @@
-# A4A - AMP for Ads
+AMP Ads
 
-A4A applies  AMP’s core philosophy of reliable fast performance and  great user experience to ads. 
+AMP Ads applies  AMP’s core philosophy of reliable fast performance and  great user experience to ads. 
 
 # AMP Ads 
 
-AMP ads are written in AMP format - [A4A HTML](https://github.com/google/amphtml/blob/master/extensions/amp-a4a/amp-a4a-format.md) (A variant of AMP HTML) + CSS. This means that ads can no longer have the ability to run arbitrary JavaScript - which is traditionally the number one cause of poor ad performance. Therefore, just like core AMP, the core ads JavaScript use-cases are built right into the AMP Open Source project which guarantees good behavior from ads. 
+AMP ads are written in AMP format - [AMP Ads HTML](https://github.com/google/amphtml/blob/master/extensions/amp-a4a/amp-a4a-format.md) (A variant of AMP HTML) + CSS. This means that ads can no longer have the ability to run arbitrary JavaScript - which is traditionally the number one cause of poor ad performance. Therefore, just like core AMP, the core ads JavaScript use-cases are built right into the AMP Open Source project which guarantees good behavior from ads. 
 
 # Why are AMP ads better than regular ads?
 
@@ -36,7 +36,7 @@ Here is how you can participate. If you are a:
 
 ## Publishers
 
-If publishers want to serve their direct-sold ad formats they must create the ads in[ A4A format](https://github.com/google/amphtml/blob/master/extensions/amp-a4a/amp-a4a-format.md) (or use a creative agency), and deliver them using an AMP ad supported ad server.
+If publishers want to serve their direct-sold ad formats they must create the ads in[AMP Ads format](https://github.com/google/amphtml/blob/master/extensions/amp-a4a/amp-a4a-format.md) (or use a creative agency), and deliver them using an AMP ad supported ad server.
 
 ## Creative Agencies
 
